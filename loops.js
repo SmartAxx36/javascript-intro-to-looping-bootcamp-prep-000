@@ -14,7 +14,7 @@ function whileLoop(n) {
 while (countdown > 0) {
   console.log(--countdown);
 }
-return n
+return ('done')
 }
 function doWhileLoop(array) {
   do array.shift()
