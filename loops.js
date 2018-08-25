@@ -8,7 +8,9 @@ function forLoop(array) {
   }}
 return array
 }
-
+function whileLoop(n) {
+  
+}
 function doWhileLoop(array) {
   do array.shift()
   while (array.length > 0)
